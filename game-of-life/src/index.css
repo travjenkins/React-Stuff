@@ -1,0 +1,34 @@
+/*
+Colors - storing here for now
+
+#1f0810 //Black
+#2e3b3d //black gray
+#869794 //gray
+#f4f4f4 //white
+
+//Green
+#315452 //dark
+#2e6c65 //middle
+#218376 //light
+
+//Green/Yellow
+#77813c
+
+//Yellow
+#6a6b3c //dark
+#a9a949 //middle
+#f0e9a5 //light
+
+//Yellow/red
+#80743b
+
+//Red
+#652c27 //dark
+#7b452f //medium
+#7b5935 //light
+*/
+
+body {
+	background: #869794;
+	color: #f4f4f4;
+}
